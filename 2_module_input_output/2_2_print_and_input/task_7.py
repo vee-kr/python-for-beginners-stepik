@@ -1,0 +1,6 @@
+line_1 = input()
+line_2 = input()
+line_3 = input()
+print(line_1)
+print(line_2)
+print(line_3)
