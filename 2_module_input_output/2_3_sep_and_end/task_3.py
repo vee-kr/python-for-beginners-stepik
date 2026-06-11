@@ -1,0 +1,5 @@
+delimiter = input()
+line_1 = input()
+line_2 = input()
+line_3 = input()
+print(line_1, line_2, line_3, sep=delimiter)
