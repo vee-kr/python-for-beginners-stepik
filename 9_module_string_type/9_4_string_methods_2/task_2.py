@@ -1,0 +1,7 @@
+genetic_code = input().lower()
+count_a, count_g = genetic_code.count('а'), genetic_code.count('г')
+count_c, count_t = genetic_code.count('ц'), genetic_code.count('т')
+print('Аденин:', count_a)
+print('Гуанин:', count_g)
+print('Цитозин:', count_c)
+print('Тимин:', count_t)
